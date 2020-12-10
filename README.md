@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Ainiall/Algebra-Lineal/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Ainiall/Algebra-Lineal/issues)
+[![Discord Chat](https://img.shields.io/discord/622801771940806709?color=7289da&label=EII%20discord&logo=discord)](https://discord.com/invite/bkR5Ye4)  
 # LINEAR ALGEBRA | ÁLGEBRA LINEAL
 
 ## English 
